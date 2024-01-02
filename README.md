@@ -10,9 +10,12 @@ The Vacation System concept is featured in the third edition of the Object Orien
 - [Constraints](#constraints)
 
 
+## System Features
+
+**Mission:** The goal of the VTS is to empower individual employees to oversee their leave without the need for an in-depth understanding of company policies.
 
 
-  ### Functional Features:
+### Functional Features:
 
 - **Authenticate users internally:**
   - Implement internal user authentication for secure access.

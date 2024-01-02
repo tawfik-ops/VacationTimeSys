@@ -3,11 +3,21 @@ The Vacation System concept is featured in the third edition of the Object Orien
 ## Table of Contents 
 - [System Features](#system-features)
 - [List of Actors](#list-of-actors)
-- [Use Cases](#use-cases)
-- [Database Design](#database-design)
 - [System Features](#system-features)
-- [Non-Functional Requirements](#non-functional-requirements)
-- [Constraints](#constraints)
+- [List of Actors](#list-of-actors)
+- [Use Cases](#use-cases)
+  - [Manage Time](#manage-time)
+    - [Request State Diagram](#request-state-diagram)
+    - [Manage Time Flow Diagram](#manage-time-flow-diagram)
+    - [Manage Time Sequence Diagram](#manage-time-sequence-diagram)
+    - [Manage Time Pseudo Code](#manage-time-pseudo-code)
+  - [Cancel Request](#cancel-request)
+     - [Cancel Request Flow Diagram](#cancel-request-flow-diagram)
+     - [Cancel Request Sequence Diagram](#cancel-request-sequence-diagram)
+  - [Edit Request Use Case Details](#edit-request-use-case-details)
+    - [Edit Request Flow Diagram](#edit-request-flow-diagram)
+    - [Edit Request Sequence Diagram](#edit-request-sequence-diagram)
+- [Database Design](#database-design)
 
 
 ## System Features
@@ -38,6 +48,34 @@ The Vacation System concept is featured in the third edition of the Object Orien
 - **Allow overrides by HR and system admin with logging functionality:**
   - Enable HR and system administrators to intervene when necessary, with detailed logging for accountability.
  
+### Non-Functional:
+- ease of use
+- record all activity logs
+- performance
+
+### Constraints
+- The utilization of current hardware and middleware is mandatory for the system.
+- Integration with the HR department's legacy systems is required for accessing and updating employee information.
+- A web service interface must be supplied to enable other internal systems to retrieve summaries of vacation requests.
     
 ## List of Actors
+- Employee
+- Manager
+- HR Clerk
+- System Admin
+
+## Use Cases
+- Manage time
+- Withdraw Request
+- Cancel Approved Request
+  
+## Database Design
+
+
+
+
+
+
+
+  
 

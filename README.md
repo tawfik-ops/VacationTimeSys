@@ -37,4 +37,7 @@ The Vacation System concept is featured in the third edition of the Object Orien
 
 - **Allow overrides by HR and system admin with logging functionality:**
   - Enable HR and system administrators to intervene when necessary, with detailed logging for accountability.
+ 
+    
+#### List of Actors
 

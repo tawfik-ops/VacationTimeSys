@@ -1,22 +1,22 @@
 # VacationTimeSys
 The Vacation System concept is featured in the third edition of the Object Oriented Analysis And Design textbook, offering insights into the design and functionality of the system for tracking employee leave, managing time-off requests, and related processes.
+# Scope 
+
 ## Table of Contents 
-- [System Features](#system-features)
-- [List of Actors](#list-of-actors)
 - [System Features](#system-features)
 - [List of Actors](#list-of-actors)
 - [Use Cases](#use-cases)
   - [Manage Time](#manage-time)
     - [Request State Diagram](#request-state-diagram)
-    - [Manage Time Flow Diagram](#manage-time-flow-diagram)
-    - [Manage Time Sequence Diagram](#manage-time-sequence-diagram)
-    - [Manage Time Pseudo Code](#manage-time-pseudo-code)
+    - [Flow Diagram](#flow-diagram)
+    - [Sequence Diagram](#sequence-diagram)
+    - [Pseudo Code](#pseudo-code)
   - [Cancel Request](#cancel-request)
-     - [Cancel Request Flow Diagram](#cancel-request-flow-diagram)
-     - [Cancel Request Sequence Diagram](#cancel-request-sequence-diagram)
-  - [Edit Request Use Case Details](#edit-request-use-case-details)
-    - [Edit Request Flow Diagram](#edit-request-flow-diagram)
-    - [Edit Request Sequence Diagram](#edit-request-sequence-diagram)
+     - [Flow Diagram](#flow-diagram)
+     - [Sequence Diagram](#sequence-diagram)
+  - [Edit Request](#edit-request)
+    - [Edit Request Flow Diagram](#flow-diagram)
+    - [Edit Request Sequence Diagram](#sequence-diagram)
 - [Database Design](#database-design)
 
 

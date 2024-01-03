@@ -69,11 +69,11 @@ The Vacation System concept is featured in the third edition of the Object Orien
 - System Admin
 
 ## Use Cases
-- Manage time
+- Manage Time
   - sequence diagram per Emp and Manager
-     [sequence diagram per Emp and Manager](https://github.com/tawfik-ops/VacationTimeSys/issues/2#issuecomment-1876048039)
+   ![sequance diagram for manage time use Case](https://github.com/tawfik-ops/VacationTimeSys/assets/83514768/bad42ef0-6939-42a0-8c6d-f110f45acbf0)
   - sequence diagram per Emp
-     [sequence diagram per Emp](https://github.com/tawfik-ops/VacationTimeSys/issues/2#issuecomment-1876048365)
+    ![Sequance diagram for manage time per Emp](https://github.com/tawfik-ops/VacationTimeSys/assets/83514768/86430546-e549-4c7b-abd1-9b3434a75e19)
   - sequence diagram per Manager
 - Withdraw Request
 - Cancel Approved Request

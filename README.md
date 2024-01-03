@@ -75,6 +75,9 @@ The Vacation System concept is featured in the third edition of the Object Orien
   - sequence diagram per Emp
     ![Sequance diagram for manage time per Emp](https://github.com/tawfik-ops/VacationTimeSys/assets/83514768/86430546-e549-4c7b-abd1-9b3434a75e19)
   - sequence diagram per Manager
+    ![seq manage time per Manager](https://github.com/tawfik-ops/VacationTimeSys/assets/83514768/c36d177e-c339-43b5-b31e-9a60ecd8383e)
+
+    
 - Withdraw Request
 - Cancel Approved Request
   

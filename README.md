@@ -68,6 +68,8 @@ The Vacation System concept is featured in the third edition of the Object Orien
 
 ## Use Cases
 - Manage time
+  - sequence diagram
+  - sequence diagram
 - Withdraw Request
 - Cancel Approved Request
   

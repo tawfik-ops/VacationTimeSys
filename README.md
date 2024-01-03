@@ -91,4 +91,3 @@ The Vacation System concept is featured in the third edition of the Object Orien
   ![Integration](https://github.com/tawfik-ops/VacationTimeSys/assets/83514768/7020201e-cd05-4c1e-ba34-8098dc5fbc6f)
 - **Data Base Design**
 
-Fix the issue that is related by navigating from content to the rest of the readme file content.

@@ -71,7 +71,10 @@ The Vacation System concept is featured in the third edition of the Object Orien
 - Withdraw Request
 - Cancel Approved Request
   
-## Database Design
+## Architecture Database Design
+- Structure Design
+
+- Data Base Design
 
 
 

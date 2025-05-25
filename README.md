@@ -1,6 +1,11 @@
 # VacationTimeSys
 
-The Vacation System concept is featured in the third edition of the Object Oriented Analysis And Design textbook, offering insights into the design and functionality of the system for tracking employee leave, managing time-off requests, and related processes.
+The Vacation System concept is featured in the third edition of the Object-Oriented Analysis and Design textbook, offering insights into the design and functionality of the system for tracking employee leave, managing time-off requests, and related processes.
+
+## Vision
+
+
+
 
 ## Scope
 
@@ -29,7 +34,7 @@ The Vacation System concept is featured in the third edition of the Object Orien
 
 ## System Features
 
-**Mission:** The goal of the VTS is to empower individual employees to oversee their leave without the need for an in-depth understanding of company policies.
+**Mission:** The VTS aims to empower individual employees to oversee their leave without the need for an in-depth understanding of company policies.
 
 ### Functional Features:
 
